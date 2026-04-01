@@ -1,2 +1,2 @@
-libgl1-mesa-glx
-libglib2.0-0
+libpcre2-8-0
+libffi8
